@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Tony! 👋
 
-<!--
-**Marionetko/Marionetko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer with 3+ years of experience delivering responsive, high-performance web and mobile applications. Skilled in Vue.js, TypeScript, Ionic, Astro, and REST APIs, with a strong focus on reusable components, clean architecture, and seamless user experiences. I thrive in collaborative environments, contribute to shaping product features, and continuously expand my expertise to drive project success.
 
-Here are some ideas to get you started:
+## 🛠️ **Languages and Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- -   **Languages:** 
+-   **Frameworks:** 
+-   **Tools:** -->
+
+<!-- ## About Me
+
+-   🔭 
+-   👯 
+-   💬 
+-   📫 
+-   ⚡ 
+
+ ✨ _special_ ✨ 
+
+
+- 🔭 
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫 
+- 😄 
+- ⚡ 
 -->
